@@ -1,0 +1,9 @@
+.contenedor{display: flex;}
+.cuadrado{ height: 100px;
+width: 100px;
+border-color:  black;
+border-style: solid;
+cursor: pointer;}
+.rojo{background-color: rgb(228, 94, 94);}
+.azul{background-color: rgb(109, 109, 196);}
+.verde{background-color: rgb(108, 172, 108);}
